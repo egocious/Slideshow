@@ -5,4 +5,4 @@ Created a Carousel/Slideshow
 
 - Code stored in branch 'main'.
 
-- The hosted link to your repo github is https://egocious.github.io/Slideshow/
+- The hosted link to my repo github is https://egocious.github.io/Slideshow/
